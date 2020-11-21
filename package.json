@@ -7,6 +7,7 @@
   "repository": "https://github.com/sunyesle/movieql",
   "author": "sunyesle",
   "dependencies": {
+    "node-fetch": "^2.6.1",
     "graphql-yoga": "^1.18.3"
   },
   "scripts": {
